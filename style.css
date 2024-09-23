@@ -1,0 +1,20 @@
+img{
+    border-radius: 10%;
+    padding: 10px;
+    height: 400px;
+    float: left;
+}
+h2{
+    color: rgb(146, 15, 211);
+    text-align: left;
+    font-family: Arial;
+    font-size: 22px;
+}
+body{
+    margin: 10px;
+    background-color:rgb(8, 225, 8);
+}
+span {
+    position: relative;
+    left: 30px;
+   }
